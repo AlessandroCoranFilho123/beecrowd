@@ -26,7 +26,7 @@ beecrowd/
 
 | Categoria                   | Resolvidos |   Total   |     %     |
 | --------------------------- | :--------: | :-------: | :-------: |
-| 🟢 Iniciante                |     3      |    341    |   0,9%    |
+| 🟢 Iniciante                |     4      |    341    |   1,17%   |
 | 🔵 Ad-Hoc                   |     0      |    854    |    0%     |
 | 🟡 Strings                  |     0      |    150    |    0%     |
 | 🟠 Estruturas e Bibliotecas |     0      |    181    |    0%     |
@@ -35,7 +35,7 @@ beecrowd/
 | ⚫ Grafos                   |     0      |    277    |    0%     |
 | 🔷 Geometria Computacional  |     0      |    83     |    0%     |
 | 🗄️ SQL                      |     0      |    51     |    0%     |
-| **Total**                   |   **3**    | **2.423** | **0,12%** |
+| **Total**                   |   **4**    | **2.423** | **0,17%** |
 
 ---
 
