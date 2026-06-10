@@ -26,17 +26,17 @@ public class Main {
     public static void main(String[] args) throws IOException {
         Scanner Scanner = new Scanner(System.in);
 
-        int code1 = Scanner.nextInt();
-        int number1 = Scanner.nextInt();
-        double value1 = Scanner.nextDouble();
+        int codigo1 = Scanner.nextInt();
+        int numero1 = Scanner.nextInt();
+        double valor1 = Scanner.nextDouble();
 
-        int code2 = Scanner.nextInt();
-        int number2 = Scanner.nextInt();
-        double value2 = Scanner.nextDouble();
+        int codigo2 = Scanner.nextInt();
+        int numero2 = Scanner.nextInt();
+        double valor2 = Scanner.nextDouble();
 
-        double total = (number1 * value1) + (number2 * value2);
+        double total = (numero1 * valor1) + (numero2 * valor2);
 
-            System.out.printf("VALOR A PAGAR: R$ %.2f%n", total);
+        System.out.printf("VALOR A PAGAR: R$ %.2f%n", total);
 
         Scanner.close();
     }
