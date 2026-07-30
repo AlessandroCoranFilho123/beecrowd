@@ -10,7 +10,7 @@ Joaozinho quer calcular e mostrar a quantidade de litros de combustível gastos 
 O arquivo de entrada contém dois inteiros. O primeiro é o tempo gasto na viagem (em horas) e o segundo é a velocidade média durante a mesma (em km/h).
 
 **Saída**
-Imprima a quantidade de litros necessária para realizar a viagem, com três dígitos após o ponto decimal
+Imprima a quantidade de litros necessária para realizar a viagem, com três dígitos após o ponto decimal.
 
 ---
 
