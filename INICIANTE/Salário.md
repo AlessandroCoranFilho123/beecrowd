@@ -16,7 +16,7 @@ Imprima o número e o salário do funcionário, conforme exemplo fornecido, com 
 
 ## Solução
 
-```bash
+```java
 import java.io.IOException;
 import java.util.Scanner;
 import java.lang.Math;

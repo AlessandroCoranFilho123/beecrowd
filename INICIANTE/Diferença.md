@@ -16,7 +16,7 @@ Imprima a mensagem DIFERENCA com todas as letras maiúsculas, conforme exemplo a
 
 ## Solução
 
-```bash
+```java
 import java.io.IOException;
 import java.util.Scanner;
 import java.lang.Math;

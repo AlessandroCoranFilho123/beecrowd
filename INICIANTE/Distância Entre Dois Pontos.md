@@ -18,7 +18,7 @@ Calcule e imprima o valor da distância segundo a fórmula fornecida, consideran
 
 ## Solução
 
-```bash
+```java
 import java.io.IOException;
 import java.util.Scanner;
 import java.lang.Math;

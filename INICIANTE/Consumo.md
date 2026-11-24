@@ -16,7 +16,7 @@ Apresente o valor que representa o consumo médio do automóvel com 3 casas apó
 
 ## Solução
 
-```bash
+```java
 import java.io.IOException;
 import java.util.Scanner;
 import java.lang.Math;

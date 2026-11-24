@@ -16,7 +16,7 @@ Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável X
 
 ## Solução
 
-```bash
+```java
 import java.io.IOException;
 import java.util.Scanner;
 

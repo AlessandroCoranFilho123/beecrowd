@@ -16,7 +16,7 @@ Imprima a mensagem "PROD" e a variável PROD conforme exemplo abaixo, com um esp
 
 ## Solução
 
-```bash
+```java
 import java.io.IOException;
 import java.util.Scanner;
 

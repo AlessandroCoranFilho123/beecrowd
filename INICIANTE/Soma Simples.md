@@ -16,7 +16,7 @@ Imprima a mensagem "SOMA" com todas as letras maiúsculas, com um espaço em bra
 
 ## Solução
 
-```bash
+```java
 import java.io.IOException;
 import java.util.Scanner;
 

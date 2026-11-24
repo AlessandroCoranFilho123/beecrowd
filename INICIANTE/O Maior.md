@@ -22,7 +22,7 @@ Imprima o maior dos três valores seguido por um espaço e a mensagem "eh o maio
 
 ## Solução
 
-```bash
+```java
 import java.io.IOException;
 import java.util.Scanner;
 import java.lang.Math;

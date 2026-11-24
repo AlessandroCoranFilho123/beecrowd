@@ -21,7 +21,7 @@ O arquivo de saída deverá conter 5 linhas de dados. Cada linha corresponde a u
 
 ## Solução
 
-```bash
+```java
 import java.io.IOException;
 import java.util.Scanner;
 import java.lang.Math;

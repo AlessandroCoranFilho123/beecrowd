@@ -16,7 +16,7 @@ Imprima o total que o funcionário deverá receber, conforme exemplo fornecido.
 
 ## Solução
 
-```bash
+```java
 import java.io.IOException;
 import java.util.Scanner;
 import java.lang.Math;

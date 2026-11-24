@@ -16,7 +16,7 @@ Imprima o valor lido e, em seguida, a quantidade mínima de notas de cada tipo n
 
 ## Solução
 
-```bash
+```java
 import java.io.IOException;
 import java.util.Scanner;
 

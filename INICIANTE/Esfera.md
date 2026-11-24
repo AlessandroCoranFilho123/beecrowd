@@ -18,7 +18,7 @@ A saída deverá ser uma mensagem "VOLUME" conforme o exemplo fornecido abaixo, 
 
 ## Solução
 
-```bash
+```java
 import java.io.IOException;
 import java.util.Scanner;
 import java.lang.Math;

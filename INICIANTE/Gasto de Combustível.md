@@ -16,7 +16,7 @@ Imprima a quantidade de litros necessária para realizar a viagem, com três dí
 
 ## Solução
 
-```bash
+```java
 import java.io.IOException;
 import java.util.Scanner;
 

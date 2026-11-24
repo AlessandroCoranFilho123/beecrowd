@@ -16,7 +16,7 @@ A saída deverá ser uma mensagem conforme o exemplo fornecido abaixo, lembrando
 
 ## Solução
 
-```bash
+```java
 import java.io.IOException;
 import java.util.Scanner;
 import java.lang.Math;

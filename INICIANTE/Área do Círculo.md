@@ -18,7 +18,7 @@ Apresentar a mensagem "A=" seguido pelo valor da variável area, conforme exempl
 
 ## Solução
 
-```bash
+```java
 import java.io.IOException;
 import java.util.Scanner;
 

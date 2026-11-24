@@ -16,7 +16,7 @@ Imprima a mensagem "MEDIA" e a média do aluno conforme exemplo abaixo, com 1 d�
 
 ## Solução
 
-```bash
+```java
 import java.io.IOException;
 import java.util.Scanner;
 

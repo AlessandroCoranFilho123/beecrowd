@@ -16,7 +16,7 @@ Você deve imprimir a mensagem "Hello World!" e em seguida o final de linha, con
 
 ## Solução
 
-```bash
+```java
 public class Main {
   public static void main(String[] args) {
     System.out.println("Hello World!");

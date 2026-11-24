@@ -20,7 +20,7 @@ Imprima o tempo necessário seguido da mensagem "minutos".
 
 ## Solução
 
-```bash
+```java
 import java.io.IOException;
 import java.util.Scanner;
 
